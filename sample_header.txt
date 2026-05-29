@@ -1,0 +1,27 @@
+Received: from mail.fake-security.com (mail.fake-security.com [45.77.210.15])
+    by mx.google.com with ESMTPS id x7si123456qka.123.2026.05.28.12.34.56
+    for <victim@gmail.com>;
+    Thu, 28 May 2026 12:34:56 -0700 (PDT)
+
+Return-Path: <security-update@paypal-support.com>
+
+Received-SPF: Fail (google.com: domain of paypal-support.com does not designate 45.77.210.15 as permitted sender)
+
+Authentication-Results: mx.google.com;
+       spf=fail;
+       dkim=fail;
+       dmarc=fail
+
+From: "PayPal Security Team" <security-update@paypal-support.com>
+
+To: victim@gmail.com
+
+Subject: Urgent Action Required - Verify Your Account
+
+Date: Thu, 28 May 2026 12:34:50 -0700
+
+Message-ID: <1234567890@mail.fake-security.com>
+
+MIME-Version: 1.0
+
+Content-Type: text/html
